@@ -45,6 +45,7 @@ Outcome
 This project provides a simple interactive dashboard to understand marketing funnel conversion, identify drop-off stages, and compare marketing channel performance.
 
 Author
+
 Rohini D.
 
 Future Interns – Data Science & Analytics | Task 3
